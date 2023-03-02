@@ -1,0 +1,28 @@
+.services {
+    text-align: center;
+}
+.container img {
+    width: 180px;
+    height: 150px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 10px;
+}
+.item {
+    font-size: 18px;
+    text-align: center;
+    
+}
+.item img {
+    border-radius: 10px;
+    padding: 5px;
+}
+.item p {
+    margin-top: 5px;
+}
+.item img:hover {
+    cursor: pointer;
+}

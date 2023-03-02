@@ -1,0 +1,8 @@
+
+body {
+  margin: 0;
+  top: 0;
+  background-image: url('./Assets/background.jfif');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
